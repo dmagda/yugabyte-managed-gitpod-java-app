@@ -1,5 +1,7 @@
 # Simple Java Application for YugabyteDB
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dmagda/yugabyte-managed-gitpod-java-app)
+
 The application connects to your YugabyteDB instance via 
 [topology-aware JDBC driver](https://docs.yugabyte.com/latest/integrations/jdbc-driver/) and performs basic SQL 
 operations. The instructions below are provided for [Yugabyte Cloud](https://cloud.yugabyte.com/) deployments.
